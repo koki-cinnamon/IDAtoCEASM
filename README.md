@@ -1,2 +1,2 @@
 "# IDAtoCEASM" 
-![run](runt.png)
+![run](run.png)
